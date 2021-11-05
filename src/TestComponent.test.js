@@ -1,3 +1,4 @@
+import React from "react";
 import "@testing-library/jest-dom";
 import { TestComponent } from "./TestComponent";
 import { QueryClient, QueryClientProvider } from "react-query";
